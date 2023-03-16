@@ -1,0 +1,8 @@
+C:\Users\luisf\GitHub\ProyectsC-Sharp\PuentesMadison\PuentesMadison\bin\Debug\PuentesMadison.exe.config
+C:\Users\luisf\GitHub\ProyectsC-Sharp\PuentesMadison\PuentesMadison\bin\Debug\PuentesMadison.exe
+C:\Users\luisf\GitHub\ProyectsC-Sharp\PuentesMadison\PuentesMadison\bin\Debug\PuentesMadison.pdb
+C:\Users\luisf\GitHub\ProyectsC-Sharp\PuentesMadison\PuentesMadison\obj\Debug\PuentesMadison.csproj.AssemblyReference.cache
+C:\Users\luisf\GitHub\ProyectsC-Sharp\PuentesMadison\PuentesMadison\obj\Debug\PuentesMadison.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisf\GitHub\ProyectsC-Sharp\PuentesMadison\PuentesMadison\obj\Debug\PuentesMadison.csproj.CoreCompileInputs.cache
+C:\Users\luisf\GitHub\ProyectsC-Sharp\PuentesMadison\PuentesMadison\obj\Debug\PuentesMadison.exe
+C:\Users\luisf\GitHub\ProyectsC-Sharp\PuentesMadison\PuentesMadison\obj\Debug\PuentesMadison.pdb
